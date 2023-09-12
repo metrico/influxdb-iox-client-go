@@ -1,4 +1,4 @@
-module github.com/influxdata/influxdb-iox-client-go/v2
+module github.com/metrico/influxdb-iox-client-go/v2
 
 go 1.18
 
