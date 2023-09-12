@@ -21,8 +21,8 @@ import (
 	"github.com/stretchr/testify/require"
 	"google.golang.org/grpc"
 
-	"github.com/influxdata/influxdb-iox-client-go/v2"
-	"github.com/influxdata/influxdb-iox-client-go/v2/ioxsql"
+	"github.com/metrico/influxdb-iox-client-go/v2"
+	"github.com/metrico/influxdb-iox-client-go/v2/ioxsql"
 )
 
 func openNewDatabase(ctx context.Context, t *testing.T) (*sql.DB, *influxdbiox.Client, string) {

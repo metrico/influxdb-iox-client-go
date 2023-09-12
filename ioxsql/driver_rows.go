@@ -12,7 +12,7 @@ import (
 	"github.com/apache/arrow/go/v10/arrow"
 	"github.com/apache/arrow/go/v10/arrow/array"
 	"github.com/apache/arrow/go/v10/arrow/flight"
-	"github.com/influxdata/influxdb-iox-client-go/v2"
+	"github.com/metrico/influxdb-iox-client-go/v2"
 )
 
 var (

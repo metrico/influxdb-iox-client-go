@@ -4,7 +4,7 @@ import (
 	"context"
 
 	"github.com/apache/arrow/go/v10/arrow/flight"
-	ingester "github.com/influxdata/influxdb-iox-client-go/v2/internal/ingester"
+	ingester "github.com/metrico/influxdb-iox-client-go/v2/internal/ingester"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/connectivity"
 )

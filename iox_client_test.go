@@ -17,7 +17,7 @@ import (
 	"github.com/influxdata/line-protocol/v2/lineprotocol"
 	"github.com/stretchr/testify/require"
 
-	"github.com/influxdata/influxdb-iox-client-go/v2"
+	"github.com/metrico/influxdb-iox-client-go/v2"
 )
 
 // Return the environment value for env, or default to the provided fallback
